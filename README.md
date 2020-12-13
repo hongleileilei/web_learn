@@ -14,3 +14,6 @@ Basic Hands-on for Bootstrap plus jQuery
 ### Module 4 Assignment
 Fundamental Syntax of JavaScript
 Basic Hands-on for JavaScript coding and debugging
+
+### Module 5 Assignment
+Further Usage of JavaScript
