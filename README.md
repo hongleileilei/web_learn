@@ -1,7 +1,7 @@
 # web_learn
 ## Coursera Webpage
 Self-Learning HTML, CSS, JS.
-## Current Progress (12/05/2020):
+## Current Progress (12/12/2020):
 
 ### Module 2 Assignment
 Basic Knowledge of Bootstrap
@@ -17,3 +17,5 @@ Basic Hands-on for JavaScript coding and debugging
 
 ### Module 5 Assignment
 Further Usage of JavaScript
+
+## Class Ended after Module 5
